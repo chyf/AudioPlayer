@@ -9,8 +9,16 @@
 #import "ADPViewController.h"
 
 @interface ADPViewController ()
+{
+
+    UIButton *btn;
+}
 
 @end
+
+
+
+
 
 @implementation ADPViewController
 
