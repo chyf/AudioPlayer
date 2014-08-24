@@ -11,7 +11,7 @@
 @interface ADPViewController ()
 {
 
-    UIButton *btn;
+    UIButton *myBtn;
 }
 
 @end
